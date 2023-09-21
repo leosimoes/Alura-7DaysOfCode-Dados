@@ -1,5 +1,5 @@
 # Alura - 7 Days of Code - Dados
-![7DayOfCode-Logo](./imgs/7DayOfCode-Logo.jpg)
+![7DayOfCode-Logo](./imgs/7DaysOfCode-Logo.jpg)
 
 
 ## Trilhas
