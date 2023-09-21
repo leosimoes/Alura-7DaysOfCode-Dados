@@ -1,4 +1,6 @@
 # Alura - 7 Days of Code - Dados
+![7DayOfCode-Logo](./imgs/7DayOfCode-Logo.jpg)
+
 
 ## Trilhas
 As trilhas de dados disponíveis são:
