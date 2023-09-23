@@ -23,6 +23,12 @@ Dia 1:
   * `pip install ydata-profiling`
   * `pip install ipywidgets` (se necessário)
 
+Dia 2:
+- Pré-Processamento de features;
+- Criar coluna 'eh_popular' que substitui 'popularidade';
+- Selecionar apenas algumas das colunas numéricas
+- Normalizar o dataframe
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Machine Learning:
@@ -40,3 +46,10 @@ https://www.linkedin.com/pulse/traduzindo-dados-pandasdataframe-com-google-trans
 HastagTreinamentos - Pandas Profiling no Python – Análise de dados rápida:
 https://www.hashtagtreinamentos.com/pandas-profiling-no-python-ciencia-dados
  , acessado em 21/09/2023.
+
+Medium - DataHackers: https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9
+ , acessado em 23/09/2023.
+
+Github - letpires - 7DaysOfCodeSpotifyML:
+https://github.com/letpires/7DaysOfCodeSpotifyML
+ , acessado em 23/09/2023.
