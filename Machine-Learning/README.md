@@ -29,6 +29,8 @@ Dia 2:
 - Selecionar apenas algumas das colunas numéricas
 - Normalizar o dataframe
 
+Dia 3:
+- Divisão dos dados em treino (80%) e teste (20%).
 
 ## Referências
 Alura - 7 Days of Code - Dados - Machine Learning:
