@@ -32,6 +32,13 @@ Dia 2:
 Dia 3:
 - Divisão dos dados em treino (80%) e teste (20%).
 
+Dia4:
+- Criar modelo de linha de base com a regressão logística.
+- Exibir coeficientes do modelo.
+- Exibir os scores do modelo para dados de treino e dados de teste.
+- Exibir a matriz de confusão para dados de treino e dados de teste.
+
+
 ## Referências
 Alura - 7 Days of Code - Dados - Machine Learning:
 https://7daysofcode.io/matricula/machine-learning
