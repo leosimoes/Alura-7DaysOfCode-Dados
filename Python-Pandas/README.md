@@ -19,6 +19,11 @@ Dia 1:
 - Carregar os dados do arquivo parquet.
 - Unir os dados em um dataframe.
 
+Dia 2:
+- Foi criada uma coluna 'CDU_geral' a partir de 'localizacao'.
+- A coluna 'registro_sistema' foi removida.
+- O tipo de 'matricula_ou_siape' foi alterado para String
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Python Pandas:
