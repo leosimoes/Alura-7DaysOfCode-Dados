@@ -32,11 +32,17 @@ Dia 2:
 Dia 3:
 - Divisão dos dados em treino (80%) e teste (20%).
 
-Dia4:
+Dia 4:
 - Criar modelo de linha de base com a regressão logística.
 - Exibir coeficientes do modelo.
 - Exibir os scores do modelo para dados de treino e dados de teste.
 - Exibir a matriz de confusão para dados de treino e dados de teste.
+
+Dia 5:
+- Instalar a biblioteca yellowbrick: 
+    * `pip install yellowbrick`.
+- Plotar as importâncias das features para o modelo.
+- Exibir os valores para as métricas precision, recall, f1 e support usando os dados de treino e os de teste
 
 
 ## Referências
@@ -62,3 +68,7 @@ Medium - DataHackers: https://medium.com/data-hackers/normalizar-ou-padronizar-a
 Github - letpires - 7DaysOfCodeSpotifyML:
 https://github.com/letpires/7DaysOfCodeSpotifyML
  , acessado em 23/09/2023.
+
+Yellowbrick - Visualizers and API » Model Selection Visualizers » Feature Importances:
+https://www.scikit-yb.org/en/latest/api/model_selection/importances.html
+, acessado em 27/09/2023.
