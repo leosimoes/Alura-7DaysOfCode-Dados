@@ -24,6 +24,11 @@ Dia 2:
 - A coluna 'registro_sistema' foi removida.
 - O tipo de 'matricula_ou_siape' foi alterado para String
 
+Dia 3:
+- Converter 'data_emprestimo', 'data_renovacao' e 'data_devolucao' para o tipo datetime.
+- Plotar gráficos de linhas para quantidade de empréstimos por ano e por mês.
+- Plotar gráfico de barras para quantidade de empréstimos por hora.
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Python Pandas:
