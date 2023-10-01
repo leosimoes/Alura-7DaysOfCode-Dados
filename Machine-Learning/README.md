@@ -44,6 +44,14 @@ Dia 5:
 - Plotar as importâncias das features para o modelo.
 - Exibir os valores para as métricas precision, recall, f1 e support usando os dados de treino e os de teste
 
+Dia 6:
+- Instalar a biblioteca imbalanced-learn:
+    * `pip install imbalanced-learn`
+- Realizar a reamostragem de dados com diferentes técnicas.
+- Treinar um DecisionTreeClassifier com dados reamostrados e GridSearchCV como otimizador de hiperparâmetros.
+- Exibir os valores para as métricas precision, recall, f1 e support usando os dados de treino e os de teste.
+- Plotar os nós do modelo DecisionTreeClassifier.
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Machine Learning:
