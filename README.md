@@ -4,7 +4,7 @@
 
 ## Trilhas
 As trilhas de dados disponíveis são:
-- Ciência de Dados;
+- Ciência de Dados - Paulo Vasconcellos;
 - Machine Learning - Letícia Pires;
 - Python Pandas.
 
