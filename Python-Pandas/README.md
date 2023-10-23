@@ -29,6 +29,10 @@ Dia 3:
 - Plotar gráficos de linhas para quantidade de empréstimos por ano e por mês.
 - Plotar gráfico de barras para quantidade de empréstimos por hora.
 
+Dia 4:
+- Contagem e exibição dos valores únicos para as colunas 'tipo_vinculo_usuario', 'CDU_geral', 'biblioteca' e 'colecao'.
+- Contagem absoluta e percentual dos valores para estas colunas.
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Python Pandas:
