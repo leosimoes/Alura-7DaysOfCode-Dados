@@ -33,6 +33,11 @@ Dia 4:
 - Contagem e exibição dos valores únicos para as colunas 'tipo_vinculo_usuario', 'CDU_geral', 'biblioteca' e 'colecao'.
 - Contagem absoluta e percentual dos valores para estas colunas.
 
+Dia 5:
+- Filtrar dados por tipo de vínculo igual a graduação ou pós-graduação.
+- Contar empréstimos por vínculo por mês de cada ano.
+- Plotar com box(plot) e violin(plot) os cálculos anteriores.
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Python Pandas:
