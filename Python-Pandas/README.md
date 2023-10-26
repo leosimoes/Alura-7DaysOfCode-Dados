@@ -38,6 +38,10 @@ Dia 5:
 - Contar empréstimos por vínculo por mês de cada ano.
 - Plotar com box(plot) e violin(plot) os cálculos anteriores.
 
+Dia 6:
+- Carregar dados dos arquivos 'cadastro_alunos.json' e 'matricula_alunos.xlsx'.
+- Calcular a quantidade de empréstimos realizados entre 2015 e 2020 por cada curso de graduação que passará pela avaliação.
+
 
 ## Referências
 Alura - 7 Days of Code - Dados - Python Pandas:
