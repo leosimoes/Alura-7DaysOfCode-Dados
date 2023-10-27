@@ -6,10 +6,10 @@
 As trilhas de dados disponíveis são:
 - Ciência de Dados - Paulo Vasconcellos;
 - Machine Learning - Letícia Pires;
-- Python Pandas.
+- Python Pandas - Francisco Foz.
 
 
 ## Referências
 Alura - 7 Days of Code - Dados:
 https://7daysofcode.io/#dados
- , acessado em 20/09/2023
+ , acessado em 27/10/2023
